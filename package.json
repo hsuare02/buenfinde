@@ -1,0 +1,19 @@
+{
+  "name": "buenfinde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsuare02/buenfinde.git"
+  },
+  "author": "hs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsuare02/buenfinde/issues"
+  },
+  "homepage": "https://github.com/hsuare02/buenfinde#readme"
+}
