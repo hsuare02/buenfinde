@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# APIKEY secrets
-src/secrets.js
+# Queda comentada esta parte solo para poder subir a github pages, pero no es correcto hacerlo
+# # APIKEY secrets
+# src/secrets.js
